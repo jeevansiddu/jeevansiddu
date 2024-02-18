@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeevan Siddharth R</h1>
 <h3 align="center">Intern @vlinder.io | Backend , Blockchain Developer | NestJs , NodeJs | Solidity</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
 - 🔭 Most of my works are on Company github!! So pls email or connect thru linkedIn to reach out
 
 - 🌱 I’m currently learning **Solidity , React**
@@ -13,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeevan siddharth r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan siddharth r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeevansiddharth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevansiddharth" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/jeevan_siddu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jeevan_siddu/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/jeevansiddusb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/jeevansiddusb" height="30" width="40" /></a>
 </p>
