@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **jeevansiddusb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1_gUhzcdXIsCrrac9TPeLKFplxFglyf4i](https://drive.google.com/drive/folders/1_gUhzcdXIsCrrac9TPeLKFplxFglyf4i)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeevansiddharth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevansiddharth" height="30" width="40" /></a>
